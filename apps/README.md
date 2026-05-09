@@ -1,6 +1,6 @@
 # Apps
 
-For an example of a Dockerfile for an app, refer to [`/apps/Dockerfile`](/apps/Dockerfile).
+For an example of a `Dockerfile`, refer to [`/apps/Dockerfile`](/apps/Dockerfile).
 
 For an example of `config.yaml` refer to [`/apps/config.yaml`](/apps/config.yaml).
 
